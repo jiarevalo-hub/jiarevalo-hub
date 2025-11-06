@@ -37,5 +37,30 @@
 
 ---
 
+## 💼 Mis proyectos destacados
+
+### 🧮 [Proyecto 1: Calculadora Web](https://github.com/tuusuario/calculadora-web)
+Aplicación web simple creada con **HTML, CSS y JavaScript** que permite realizar operaciones básicas con un diseño moderno y responsive.
+
+### 📋 [Proyecto 2: Gestor de Tareas](https://github.com/tuusuario/gestor-tareas)
+Sistema CRUD desarrollado en **Python (Flask)** para crear, editar y eliminar tareas. Ideal para organizar actividades diarias.
+
+### 🌐 [Proyecto 3: Portafolio Personal](https://github.com/tuusuario/portafolio)
+Mi página personal donde muestro mis proyectos, habilidades y experiencia. Construido con **HTML, CSS y JavaScript**.
+
+### 🧠 [Proyecto 4: Juego de Preguntas](https://github.com/tuusuario/juego-preguntas)
+Juego interactivo tipo quiz desarrollado en **JavaScript**, con puntuación y preguntas aleatorias.
+
+> 💡 Puedes ver todos mis repositorios en 👉 [github.com/tuusuario?tab=repositories](https://github.com/tuusuario?tab=repositories)
+
+---
+
+## 📊 Estadísticas de GitHub
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=tokyonight)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=tokyonight)
+
+---
+
 ⭐ *“El código es como el humor. Cuando tienes que explicarlo, deja de ser bueno.”* — **Cory House**
 
