@@ -1,7 +1,7 @@
 # 👋 ¡Hola, soy Jairo Arévalo!
 
-🎯 **Desarrollador / Estudiante / Entusiasta de la tecnología**  
-💻 Apasionado por el desarrollo web, la programación y el aprendizaje constante.
+🎯 **Estudiante / Entusiasta de la tecnología**  
+💻 Apasionado por el desarrollo web y la programación.
 
 ---
 
@@ -18,7 +18,6 @@
 
 ### 💻 Lenguajes
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
 
@@ -30,18 +29,11 @@
 
 ---
 
-## 📊 Mis estadísticas de GitHub
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=tokyonight)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Cómo contactarme
 
-📧 **Email:** [tuemail@ejemplo.com](mailto:tuemail@ejemplo.com)  
-💼 **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)  
-🌐 **Portafolio:** [tuportafolio.com](https://tuportafolio.com)
+📧 **Email:** [jiarevalo@sudamericano.edu.ec](jiarevalo@sudamericano.edu.ec)  
+💼 **Instragram:** [@jc_2606](https://instragram.com)  
+🌐 **Facebook:** [Jairo Arevalo](https://facebook.com)
 
 ---
 
